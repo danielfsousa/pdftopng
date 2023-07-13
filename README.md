@@ -2,6 +2,12 @@
 
 A PDF to PNG conversion library (based on `pdftoppm` from `poppler`)
 
+## Fork
+
+Fixes https://github.com/vinayak-mehta/pdftopng/issues/11
+
+How to build: https://github.com/vinayak-mehta/pdftopng/issues/11#issuecomment-1528971792
+
 ## Installation
 
 ```
